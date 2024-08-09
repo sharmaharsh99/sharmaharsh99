@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/harsh69969" target="blank"><img src="https://img.shields.io/twitter/follow/harsh69969?logo=twitter&style=for-the-badge" alt="harsh69969" /></a> </p>
 
-- 🌱 I’m currently learning **Reacr.Js**
+- 🌱 I’m currently learning **React.Js**
 
 - 💬 Ask me about **PostgreSQL, MERN**
 
