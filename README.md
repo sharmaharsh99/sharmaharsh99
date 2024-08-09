@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **PostgreSQL, MERN**
 
-- 📫 How to reach me **harshsharma882@gmail.com**
+- 📫 Reach me at **harshsharma882@gmail.com**
   <br>
 
 <h3 align="left">Connect with me:</h3>
