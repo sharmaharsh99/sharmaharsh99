@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **React.Js**
 
-- 💬 Ask me about **PostgreSQL, MERN**
+- 💬 Ask me about **PostgreSQL, FullStack**
 
 - 📫 Reach me at **harshsharma882@gmail.com**
   <br>
